@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eccogonecrazy777
 - 👀 I’m interested in programming, gaming, sports
-- 🌱 I’m currently learning javascript and it's frameworks
+- 🌱 I’m currently learning Javascript and it's frameworks
 - 📫 How to reach me:
 - @tmy_gdbrne on Discord
   
